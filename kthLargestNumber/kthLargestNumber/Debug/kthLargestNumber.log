@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\GitHub\kthLargestNumber\kthLargestNumber\kthLargestNumber\Source.cpp(20,9): warning C4101:  'j': unreferenced local variable
+D:\GitHub\kthLargestNumber\kthLargestNumber\kthLargestNumber\Source.cpp(20,6): warning C4101:  'i': unreferenced local variable
+  kthLargestNumber.vcxproj -> D:\GitHub\kthLargestNumber\kthLargestNumber\Debug\kthLargestNumber.exe
